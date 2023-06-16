@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: rg-az400-eshoponweb-MOFO
   LOCATION: westeurope
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
-  SUBSCRIPTION-ID: subscriptionId
+  SUBSCRIPTION-ID: 9b547498-bf1d-4cf8-a143-8d59f59dfe75
   WEBAPP-NAME: az400-webapp-MOFO
 
 
